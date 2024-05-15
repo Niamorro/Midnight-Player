@@ -1,5 +1,0 @@
-PySide6
-sounddevice
-pyqtdarktheme
-numpy
-mutagen
